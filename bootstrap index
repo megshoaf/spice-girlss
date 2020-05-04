@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="The Spice Girls">
+      <meta name="author" content="Megan Shoaf">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Spice Girls</title>
+
+    <!-- Bootstrap v4.4.1 -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen">
+
+  </head>
+
+  <body id="page-top">
+
+
+
+    <img src="images/spice.jpg" alt="The five spice girls posing"
+    class="img-fluid">
+
+
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">The Spice Girls</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#Mel B">Mel B</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#Melanie C">Melanie C</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#Emma Bunton">Emma Bunton</a>
+              <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="Geri Halliwell">Geri Halliwell</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#Victoria Beckham">Victoria Beckham</a>
+            </li>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+    <section id="Mel B">
+      <!-- PUT YOUR FIRST SECTION DIVS/COLUMNS HERE -->
+      <!-- USE CONTAINER, ROW, COL -->
+      <h2><strong>Melanie Brown</strong></h2>
+      <h5>'Scary Spice'</h5>
+      <p> Mel B, was born Melanie Janine Brown in West Yorkshire, England on May 29, 1975. Mel was nicknamed 'Scary Spice.' She is a singer, songwriter, author and actress. In addition to being a member of Spice Girls, Mel has released solo albums. She has been married and divorced twice, to actor Jimmy Gulzar (1998-2000) and film producer Stephen Belafonte (2007-2017). She has 3 daughters, Angel Iris Murphy Brown, Phoenix Chi Gulzar, and Madison Brown Belafonte. </p>
+    </section>
+
+
+
+
+    <section id="Melanie C" class="bg-light">
+      <!-- PUT YOUR SECOND SECTION DIVS/COLUMNS HERE -->
+      <!-- USE CONTAINER, ROW, COL -->
+      <h2><strong>Melanie Chisholm</strong></h2>
+      <h5>'Sporty Spice'</h5>
+        <p> Melanie C, was born Melanie Jane Chisholm in Lancashire, England on January 12, 1974. She was nicknamed 'Sporty Spice.' She is a songwriter, singer, entrepreneur and actress. In addition to being in the Spice Girls, she has sold over 20 million solo albums. She began her solo career in 1998. She has been dating Joe Marshall since 2014. She has one daughter, Scarlet Starr.</p>
+    </section>
+
+    <section id="Emma Bunton">
+    	<!-- PUT YOUR THIRD SECTION DIVS/COLUMNS HERE -->
+		<!-- USE CONTAINER, ROW, COL -->
+		<h2><Strong>Emma Bunton</Strong></h2>
+		<h5>'Baby Spice'</h5>
+    <p> Born Emma Lee Bunton in London, England on January 21, 1976. She was nicknamed 'Baby Spice.' She is a singer, songwriter, television judge, radio presenter and actress. After her time with the Spice Girls, she began working as a radio presenter from 2013-2018. She has also released a few solo albums. She has been dating former singer and current chef Jade Jones since 2004. The couple have two sons together, Tate and Beau Lee Jones.</p>
+    </section>
+
+    <section id="Geri Halliwell" class="bg-light">
+      <!-- PUT YOUR SECOND SECTION DIVS/COLUMNS HERE -->
+      <!-- USE CONTAINER, ROW, COL -->
+      <h2><strong>Geri Halliwell</strong></h2>
+      <h5>'Ginger Spice'</h5>
+      <p> Geri Halliwell was born Geraldine Estelle Horner, on August 6, 1972 in Hertfordshire England. She was nicknamed 'Ginger Spice.' She is a singerm songwriter, philanthropist, author, and actress. She was the reason of The Spice Girls being so associated with "girl power." She left the group in 1998 to pursue a solo career. She has also released solo albums. She has been married to Christian Horner, principal of Red Bull Racing since 2015. She has two children, Bluebell Madonna Halliwell and Montague George Hector Horner.</p>
+
+    </section>
+
+    <section id="Victoria Beckham">
+      <!-- PUT YOUR THIRD SECTION DIVS/COLUMNS HERE -->
+    <!-- USE CONTAINER, ROW, COL -->
+    <h2><Strong>Victoria Beckham</Strong></h2>
+    <h5>'Posh Spice'</h5>
+    <p> Born Victoria Caroline Adams on April 17, 1974 in Essex, England. She was nicknamed 'Posh Spice.' After the Spice Girls, she was signed to Virgin and Telstar Records. She has starred in a few documentaries and reality shows about herself. She currently is a style icon, and fashion designer. In 1999 she married soccer player David Beckham. The couple has 4 children together, Brooklyn Beckham, Romeo James Beckham, Cruz Beckham, and Harper Seven Beckham.</p>
+    </section>
+
+   
+    <!-- Footer -->
+    <footer>
+      	<!-- PUT YOUR FOOTER CONTENT HERE -->
+    </footer>
+
+    <!-- jQuery and Bootstrap links - do not delete! -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/scrolling-nav.js"></script>
+    <!-- end of do not delete -->
+    
+
+  </body>
+
+</html>
